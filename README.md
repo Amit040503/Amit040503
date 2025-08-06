@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A passionate Android Application Developer from India</h3>
 
-<!-- New Image Added Below -->
-<p align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.nMLvSM1x4RxpyhMwkgDVxQHaE8?pid=Api&P=0&h=180" width="200" style="border-radius: 50%;" alt="Amit Kumar Profile Picture"/>
-</p>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit040503&label=Profile%20views&color=0e75b6&style=flat" alt="amit040503" /> </p>
